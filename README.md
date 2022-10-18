@@ -5,7 +5,6 @@
 <div align="center">
   <h3 align="center">BurgerTime</h3>
   <p align="center">
-    <a href="#">View Demo (TODO)</a> ·
     <a href="https://github.com/Akwd22/burger-time/releases/latest">Get latest release</a>
   </p>
 </div>
